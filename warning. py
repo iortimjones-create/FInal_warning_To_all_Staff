@@ -1,0 +1,5 @@
+x = 200
+while x > (0):
+print(x)
+x = x-10
+print("We want to send a quick reminder about our standard office hours, which are from 10am to 11am. Arriving on time ensures our daily operations run smoothly, supports our colleagues, and helps us maintain a collaborative work environment")
